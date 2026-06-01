@@ -44,30 +44,30 @@ Topics may include:
 
 ---
 
-
-
 # 📂 Required Folder Structure
 
+```
 Track Folder
 │
 ├── 01-Introduction
-│ ├── README.md
-│ └── Exercises.md
+│   ├── README.md
+│   └── Exercises.md
 │
 ├── 02-Topic
-│ ├── README.md
-│ └── Exercises.md
+│   ├── README.md
+│   └── Exercises.md
 │
 ├── 03-Topic
-│ ├── README.md
-│ └── Exercises.md
+│   ├── README.md
+│   └── Exercises.md
 │
 ├── Projects
-│ ├── Beginner
-│ ├── Intermediate
-│ └── Advanced
+│   ├── Beginner
+│   ├── Intermediate
+│   └── Advanced
 │
 └── Resources
+```
 
 ---
 
