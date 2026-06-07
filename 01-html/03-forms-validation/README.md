@@ -2,6 +2,11 @@
 
 > Build interactive forms to collect and validate user information.
 
+- [Start Exercises](./Exercises.md)
+- [Previous Module: Semantic HTML](../02-semantic-html/README.md)
+- [Next Module: Advanced HTML](../04-advanced-html/README.md)
+- [HTML Track Overview](../README.md)
+
 Welcome to Forms! 📋 This module teaches you to create HTML forms that let users input information like names, emails, passwords, and more. We'll also explore how to validate that information.
 
 ---

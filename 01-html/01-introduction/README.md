@@ -2,6 +2,10 @@
 
 > Learn the fundamentals of HTML and create your first webpage!
 
+- [Start Exercises](./Exercises.md)
+- [Next Module: Semantic HTML](../02-semantic-html/README.md)
+- [HTML Track Overview](../README.md)
+
 Welcome! 👋 This module introduces you to HTML and shows you how it works. Don't worry if you've never seen code before—we'll start from the very beginning.
 
 ---

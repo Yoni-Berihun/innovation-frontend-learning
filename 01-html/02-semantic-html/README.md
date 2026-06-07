@@ -2,6 +2,11 @@
 
 > Use HTML tags that describe what content they contain, not just how it looks.
 
+- [Start Exercises](./Exercises.md)
+- [Previous Module: HTML Introduction](../01-introduction/README.md)
+- [Next Module: Forms & Validation](../03-forms-validation/README.md)
+- [HTML Track Overview](../README.md)
+
 Welcome to Semantic HTML! 🎯 This module teaches you to write HTML that means something, making your code easier to understand and your websites more accessible.
 
 ---
