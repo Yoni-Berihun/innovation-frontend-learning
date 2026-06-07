@@ -220,7 +220,36 @@ export default App;
 
 ---
 
-## 📚 Resources
+## �️ React Project Structure Basics
+
+When your React app is ready, the folder structure should be easy to understand.
+
+```
+my-app/
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.jsx
+│   ├── index.jsx
+│   ├── components/
+│   └── styles/
+├── package.json
+└── vite.config.js
+```
+
+- `public/index.html` is the page shell React renders into.
+- `src/index.jsx` is the app entry point.
+- `src/App.jsx` is the root component.
+- `src/components/` stores reusable components.
+
+**Why structure matters:**
+- makes your app easier to maintain
+- helps you find files quickly
+- scales better as your app grows
+
+---
+
+## �📚 Resources
 
 ### Videos
 - [What is React?](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - 5 min intro
